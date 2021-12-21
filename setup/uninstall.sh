@@ -1,1 +1,2 @@
+cd /
 rm -rf DashiumOS
