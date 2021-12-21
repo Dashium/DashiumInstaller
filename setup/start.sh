@@ -8,4 +8,3 @@ then
 elif
   cd Dashium
   npm start
-fi
