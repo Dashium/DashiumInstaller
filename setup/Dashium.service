@@ -1,0 +1,11 @@
+[Unit]
+Description=Start Dashium Installer
+After=network-online.target
+
+[Service]
+Type=simple
+ExecStart=bash /home/dashium/DashiumInstaller/setup/start.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
