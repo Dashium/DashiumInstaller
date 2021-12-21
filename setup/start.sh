@@ -5,7 +5,7 @@ then
   git clone "https://github.com/Dashium/Dashium"
   cd Dashium
   npm setup
-if [ -d 'Dashium' ];
-then
+else
   cd Dashium
   npm start
+fi
