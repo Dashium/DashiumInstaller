@@ -1,4 +1,4 @@
-cd /home/dashium/
+cd /home/dashium/DashiumInstaller/
 
 git stash
 git reset --merge
