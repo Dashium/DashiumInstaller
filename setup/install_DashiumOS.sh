@@ -4,6 +4,9 @@ git stash
 git reset --merge
 git pull
 
+npm install
+npm start
+
 cd /
 
 if [ ! -d 'DashiumOS' ];
