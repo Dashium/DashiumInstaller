@@ -1,0 +1,30 @@
+{
+  "name": "dashiuminstaller",
+  "version": "1.0.0",
+  "description": "Dashium Installer and Updater",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dashium/DashiumInstaller.git"
+  },
+  "keywords": [
+    "dashium",
+    "open",
+    "source"
+  ],
+  "author": "Tai Tetsuyuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dashium/DashiumInstaller/issues"
+  },
+  "homepage": "https://github.com/Dashium/DashiumInstaller#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
