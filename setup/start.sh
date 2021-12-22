@@ -10,10 +10,7 @@ then
   cd Dashium
   npm setup
 else
-  cd current
-  cd ..
-  npm install
-  npm start
+  bash /home/dashium/DashiumInstaller/setup/install_DashiumOS.sh
   cd DashiumOS/Dashium
   npm start
 fi
