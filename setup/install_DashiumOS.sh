@@ -1,5 +1,7 @@
 cd /home/dashium/
 
+git stash
+git reset --merge
 git pull
 
 cd /
