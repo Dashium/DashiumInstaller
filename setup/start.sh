@@ -1,6 +1,6 @@
 git pull
 
-bash setup/envSet.sh
+bash /setup/envSet.sh
 
 current=$(pwd)
 
