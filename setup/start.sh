@@ -1,5 +1,6 @@
 git pull
 
+npm run modules
 bash /setup/envSet.sh
 
 current=$(pwd)
