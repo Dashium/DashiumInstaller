@@ -10,6 +10,5 @@ fs.readFile(path.join('/', 'etc', '/', 'environment'), (err, data) => {
     DashiumOS="/DashiumOS"
     DashiumApps="/DashiumOS/apps"
     `;
-    console.log(data);
     fs.writeFileSync(path.join('/', 'etc', '/', 'environment'), data);
 })
