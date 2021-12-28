@@ -4,7 +4,8 @@
   "description": "Dashium Installer and Updater",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "env": "node envEDITOR.js"
   },
   "repository": {
     "type": "git",
