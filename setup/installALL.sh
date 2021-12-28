@@ -18,3 +18,5 @@ sudo apt install genisoimage
 git clone https://github.com/Dashium/DashiumInstaller
 cd DashiumInstaller
 bash setup/install.sh
+
+bash setup/envSet.sh

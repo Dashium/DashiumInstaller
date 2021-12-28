@@ -4,6 +4,8 @@ git stash
 git reset --merge
 git pull
 
+bash setup/envSet.sh
+
 npm install
 npm start
 
