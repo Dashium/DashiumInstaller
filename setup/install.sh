@@ -12,4 +12,5 @@ mkdir DashiumOS
 cd DashiumOS
 git clone "https://github.com/Dashium/Dashium"
 cd Dashium
+npm run modules
 npm setup

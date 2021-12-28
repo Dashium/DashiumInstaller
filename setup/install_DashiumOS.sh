@@ -7,6 +7,7 @@ git pull
 bash setup/envSet.sh
 
 npm install
+npm run modules
 npm start
 
 cd /

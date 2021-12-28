@@ -20,3 +20,4 @@ cd DashiumInstaller
 bash setup/install.sh
 
 bash setup/envSet.sh
+npm run modules
