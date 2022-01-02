@@ -12,6 +12,7 @@ sudo apt install pcmanfm
 sudo apt install Falkon
 sudo apt install xinit
 sudo apt install obconf
+sudo apt install idesk
 
 sudo apt-get install curl
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
@@ -64,5 +65,6 @@ sudo apt update
 sudo apt upgrade
 
 sudo systemctl start lightdm
+setxkbmap fr
 
 sudo reboot
