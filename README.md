@@ -6,3 +6,5 @@
 4. run ```git clone https://github.com/Dashium/DashiumInstaller```
 5. run ```bash /DashiumInstaller/setup/installALL.sh```
 6. use
+
+7. https://www.postgresql.org/download/
